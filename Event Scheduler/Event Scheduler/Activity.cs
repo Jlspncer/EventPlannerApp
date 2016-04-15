@@ -9,20 +9,20 @@ namespace Event_Scheduler
     public class Activity
     {
         string name;
-        double startTime;
-        double duration;
-        public Activity(string name, double startTime, double duration)
+        int startTime;
+        int duration;
+        public Activity(string name, int startTime, int duration)
         {
             this.name = name;
             this.startTime = startTime;
             this.duration = duration;
         }
         public string getName() { return name; }
-        public double getStartTime() { return startTime; }
-        public double getDuration() { return duration; }
-        public double getEndTime()
+        public int getStartTime() { return startTime; }
+        public int getDuration() { return duration; }
+        public int getEndTime()
         {
-            return 0;
+            return startTime + duration;
         }
     }
 }
