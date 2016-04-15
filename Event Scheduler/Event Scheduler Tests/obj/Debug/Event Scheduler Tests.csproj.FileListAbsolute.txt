@@ -1,0 +1,8 @@
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler Tests.dll
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler Tests.pdb
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler.exe
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler.pdb
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.csprojResolveAssemblyReference.cache
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.dll
+H:\Software Engineering\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.pdb
