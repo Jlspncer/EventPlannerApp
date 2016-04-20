@@ -6,3 +6,11 @@ H:\Software Engineering\Event Scheduler\Event Scheduler\obj\Debug\Event_Schedule
 H:\Software Engineering\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.Cache
 H:\Software Engineering\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.exe
 H:\Software Engineering\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.pdb
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.exe.config
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.exe
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.pdb
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.exe
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.pdb
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.Cache
