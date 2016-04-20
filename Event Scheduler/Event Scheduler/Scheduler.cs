@@ -52,5 +52,10 @@ namespace Event_Scheduler
         {
             return allActivities.Count;
         }
+
+        public void clearActivities()
+        {
+            allActivities.Clear();
+        }
     }
 }

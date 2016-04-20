@@ -14,3 +14,4 @@ C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csprojResolveAssemblyReference.cache
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.Cache
+C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Form1.resources
