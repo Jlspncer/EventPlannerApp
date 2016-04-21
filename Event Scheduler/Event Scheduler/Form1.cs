@@ -22,8 +22,8 @@ namespace Event_Scheduler
         private void addEventBTN_Click(object sender, EventArgs e)
         {
             string name = eventNameTXT.Text;
-            int start = (int)startTimeNUD.Value;
-            int duration = (int)durationNUD.Value;
+            int start = (int)(startTimeNUD.Value*60 + startTimeMinuteNUD.Value);
+            int duration = (int)(durationNUD.Value * 60 + durationMinuteNUD.Value);
             Activity newActivity = new Activity(name, start, duration);
             Concierge.addActivity(newActivity);
             activityTXT.AppendText(newActivity.toString()+ "\n");

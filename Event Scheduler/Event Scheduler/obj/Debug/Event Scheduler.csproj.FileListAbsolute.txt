@@ -15,3 +15,12 @@ C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.Cache
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Form1.resources
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.exe.config
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.exe
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.pdb
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.exe
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\bin\Debug\Event Scheduler.pdb
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Form1.resources
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.Cache

@@ -18,7 +18,25 @@ namespace Event_Scheduler
             this.duration = duration;
         }
         public string getName() { return name; }
-        public string toString() { return name + ": " + startTime + " to " + getEndTime(); }
+        public string toString()
+        {
+            int endTime = getEndTime();
+            int startHour = startTime / 60;
+            int startMinute = startTime % 60;
+            int endHour = endTime / 60;
+            int endMinute = endTime % 60;
+            string output = "";
+
+            output += name + ": " + startHour +":";
+            if (startMinute < 10)
+                output += "0";
+            output += startMinute + " to " + endHour + ":";
+            if (endMinute < 10)
+                output += "0";
+            output += endMinute;
+
+            return output;
+        }
         public int getStartTime() { return startTime; }
         public int getDuration() { return duration; }
         public int getEndTime()

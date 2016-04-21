@@ -13,3 +13,11 @@ C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.csprojResolveAssemblyReference.cache
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.dll
 C:\Users\t-martin\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.pdb
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler Tests.dll
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler Tests.pdb
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler.exe
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\bin\Debug\Event Scheduler.pdb
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.dll
+C:\Users\Tim\Desktop\EventPlannerApp-master\Event Scheduler\Event Scheduler Tests\obj\Debug\Event Scheduler Tests.pdb
