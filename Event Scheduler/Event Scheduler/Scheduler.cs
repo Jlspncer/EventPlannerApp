@@ -28,10 +28,10 @@ namespace Event_Scheduler
             List<Activity> input = sortActivities();
             List<Activity> output = new List<Activity>();
             output.Add(input[0]);
-            int endTime = input[0].getEndTime();
+            DateTime endTime = input[0].getEndTime();
             for(int i = 1; i < input.Count; i++)
             {
-                if(input[i].getStartTime() >= endTime)
+                if(input[i].getStart().CompareTo(endTime) >= 0)
                 {
                     output.Add(input[i]);
                     endTime = input[i].getEndTime();

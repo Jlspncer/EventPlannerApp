@@ -44,6 +44,7 @@
             this.durationMinuteNUD = new System.Windows.Forms.NumericUpDown();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.startDatePicker = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.startTimeNUD)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.durationNUD)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.startTimeMinuteNUD)).BeginInit();
@@ -64,7 +65,7 @@
             // 
             // durationNUD
             // 
-            this.durationNUD.Location = new System.Drawing.Point(403, 28);
+            this.durationNUD.Location = new System.Drawing.Point(591, 27);
             this.durationNUD.Maximum = new decimal(new int[] {
             9000,
             0,
@@ -85,7 +86,7 @@
             // 
             this.addEventBTN.Location = new System.Drawing.Point(12, 71);
             this.addEventBTN.Name = "addEventBTN";
-            this.addEventBTN.Size = new System.Drawing.Size(251, 23);
+            this.addEventBTN.Size = new System.Drawing.Size(389, 23);
             this.addEventBTN.TabIndex = 4;
             this.addEventBTN.Text = "Add Event";
             this.addEventBTN.UseVisualStyleBackColor = true;
@@ -93,9 +94,9 @@
             // 
             // resetBTN
             // 
-            this.resetBTN.Location = new System.Drawing.Point(269, 71);
+            this.resetBTN.Location = new System.Drawing.Point(407, 71);
             this.resetBTN.Name = "resetBTN";
-            this.resetBTN.Size = new System.Drawing.Size(251, 23);
+            this.resetBTN.Size = new System.Drawing.Size(389, 23);
             this.resetBTN.TabIndex = 5;
             this.resetBTN.Text = "Reset";
             this.resetBTN.UseVisualStyleBackColor = true;
@@ -106,15 +107,15 @@
             this.activityTXT.Location = new System.Drawing.Point(12, 133);
             this.activityTXT.Multiline = true;
             this.activityTXT.Name = "activityTXT";
-            this.activityTXT.Size = new System.Drawing.Size(251, 230);
+            this.activityTXT.Size = new System.Drawing.Size(389, 230);
             this.activityTXT.TabIndex = 6;
             // 
             // scheduleTXT
             // 
-            this.scheduleTXT.Location = new System.Drawing.Point(269, 133);
+            this.scheduleTXT.Location = new System.Drawing.Point(407, 133);
             this.scheduleTXT.Multiline = true;
             this.scheduleTXT.Name = "scheduleTXT";
-            this.scheduleTXT.Size = new System.Drawing.Size(251, 230);
+            this.scheduleTXT.Size = new System.Drawing.Size(389, 230);
             this.scheduleTXT.TabIndex = 7;
             // 
             // label1
@@ -122,9 +123,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(9, 115);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 15);
+            this.label1.Size = new System.Drawing.Size(69, 15);
             this.label1.TabIndex = 8;
-            this.label1.Text = "Activities";
+            this.label1.Text = "All Activities";
             // 
             // label3
             // 
@@ -138,7 +139,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(400, 9);
+            this.label4.Location = new System.Drawing.Point(588, 9);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(54, 15);
             this.label4.TabIndex = 11;
@@ -147,11 +148,11 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(266, 115);
+            this.label5.Location = new System.Drawing.Point(404, 115);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(59, 15);
+            this.label5.Size = new System.Drawing.Size(115, 15);
             this.label5.TabIndex = 12;
-            this.label5.Text = "Schedule";
+            this.label5.Text = "Scheduled Activities";
             // 
             // label2
             // 
@@ -176,7 +177,7 @@
             // 
             // durationMinuteNUD
             // 
-            this.durationMinuteNUD.Location = new System.Drawing.Point(468, 28);
+            this.durationMinuteNUD.Location = new System.Drawing.Point(656, 27);
             this.durationMinuteNUD.Maximum = new decimal(new int[] {
             59,
             0,
@@ -189,7 +190,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(452, 30);
+            this.label6.Location = new System.Drawing.Point(640, 30);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(10, 15);
             this.label6.TabIndex = 15;
@@ -204,11 +205,21 @@
             this.label7.TabIndex = 16;
             this.label7.Text = ":";
             // 
+            // startDatePicker
+            // 
+            this.startDatePicker.Location = new System.Drawing.Point(365, 28);
+            this.startDatePicker.MinDate = new System.DateTime(1753, 1, 1, 12, 0, 0, 0);
+            this.startDatePicker.Name = "startDatePicker";
+            this.startDatePicker.Size = new System.Drawing.Size(200, 20);
+            this.startDatePicker.TabIndex = 17;
+            this.startDatePicker.Value = new System.DateTime(2016, 5, 1, 16, 56, 0, 0);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(532, 375);
+            this.ClientSize = new System.Drawing.Size(814, 375);
+            this.Controls.Add(this.startDatePicker);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.durationMinuteNUD);
@@ -254,6 +265,7 @@
         private System.Windows.Forms.NumericUpDown durationMinuteNUD;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.DateTimePicker startDatePicker;
     }
 }
 
